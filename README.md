@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattNSCC
-- 👀 Music, puzzles, making things (in a workshop), develping new opportunities for others, and programming.
+- 👀 Music, puzzles, making things (in a workshop), developing new opportunities for others, and programming.
 - 🌱 InfluxDB and Python.
 - 💞️ I am interested in everything!
 - 📫 Reach me at matthew.dares@nscc.ca
